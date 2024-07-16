@@ -25,7 +25,7 @@ struct ContentView: View {
                 .background(.red)
             
             Button("Red & yellow") {
-                response = "❤️💛"
+                response = "❤️💛!"
                    
                     
             }
